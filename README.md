@@ -1,4 +1,4 @@
-# 🍖 Eating Animation Compat
+# 🍖 Eating Animation Modded
 
 Adds compatibility between Eating Animation and other mods.
 
@@ -15,7 +15,7 @@ Nothing for now, but feel free to suggest any compatibility you want!
 
 ## 📦 Installation
 
-You can download Eating Animation Compat on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/eating-animation-compat)
+You can download Eating Animation Modded on [Modrinth](https://modrinth.com/project/C5i3E4dv) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/eating-animation-modded)
 
 ## ⚙️ Requirements
 
@@ -32,7 +32,7 @@ And a big thanks as well to every other mod creator!! Your mods make the game ev
 
 ## 🤝 Contributing
 
-Eating Animation Compat is a work in progress, and all suggestions are welcome.
+Eating Animation Modded is a work in progress, and all suggestions are welcome.
 
 If you'd like to contribute:
 
@@ -44,7 +44,7 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 📦 Modpack
 
-Feel free to include Eating Animation Compat in modpacks.
+Feel free to include Eating Animation Modded in modpacks.
 
 ## 🌐 Looking for a server? Support me at the same time!
 

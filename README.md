@@ -6,10 +6,11 @@ Adds compatibility between Eating Animation and other mods.
 
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
 - [Living Things](https://modrinth.com/project/UKDLi1GJ)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
 ## 🚀 Planned Features
 
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
+- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
 
 ## 📦 Installation
 
@@ -24,6 +25,7 @@ You also need the following mod and resource pack for it to work properly:
 ## 🙏 Credits
 
 - Thanks to [theoness1](https://modrinth.com/user/jEUgdktF) for [Eating Animation](https://modrinth.com/project/rUgZvGzi)
+- Thanks to [nNoidea](https://github.com/nNoidea) for Eating Animation support for Wilder Wild compatibility! (via [Eating Animation PR #62](https://github.com/Theoness1/EatingAnimation/pull/62))
 
 And a big thanks as well to every other mod creator!! Your mods make the game even more amazing.
 
